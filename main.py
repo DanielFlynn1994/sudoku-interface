@@ -3,6 +3,8 @@ import pygame as pg
 from pygame.locals import *
 import sys
 
+# hello
+
 starting_sudoku = np.array([
     [0, 3, 0, 0, 0, 0, 0, 0, 0],
     [0, 4, 0, 0, 5, 0, 0, 1, 0],
