@@ -8,5 +8,3 @@ This interface is based off the interface that the YouTube channel Cracking the 
 - Clicking the restart button will reset the sudoku board to its original arrangement
 - Clicking the check button will check if the sudoku is completed, and highlight incorrect squares
 - Clicking the solve button will solve the sudoku
-
-I created this to demonstrate 
